@@ -119,7 +119,4 @@ wks = sh[0]
 wks.clear()
 wks.set_dataframe(df1, 'A1')
 
-print("ss")
-print("sure")
-
 print("seems to be coorect")
